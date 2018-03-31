@@ -11,8 +11,6 @@ estrutura-de-dados-II
 │
 └───AnoSemestre
 │   │   
-│   │   exemplos
-│   │   exercícios
 │   │   slides
 │   │   trabalhos
 │   │   Plano de Ensino.pdf
